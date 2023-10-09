@@ -1,0 +1,5 @@
+Hola %%5%%.
+Le contactamos porque nos ha interesado uno de sus proyectos en %%2%%.
+Vamos a compartir tu correo %%4%% con nuestro departamento técnico en %%3%% para que se pongan en contacto y podamos realizar una propuesta conjunta, si le parece bien.
+Nos mantenemos a la espera de la confirmacion.
+Un saludo.
